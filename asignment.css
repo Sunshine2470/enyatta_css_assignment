@@ -1,0 +1,96 @@
+
+body{
+	background-color: #c71585;
+	color: #FFFFFF;
+
+}
+p {font-family: calibri light;
+}
+
+.container{
+	font-family: calibri light;
+	text-align: center;
+	margin-top: 70px;
+}
+.heading h3{
+	font-family: calibri light;
+	font-size: 30px; 
+}
+
+.heading p {
+	text-transform: capitalize;
+}
+
+.button {
+	border-collapse: collapse;
+	border-radius: 4px;
+	cursor: pointer;
+	height: 35px;
+	width: auto;
+	background-color: white;
+	color: #880e4f;
+}
+
+form span input{
+	width: 500px;
+}
+form input{
+	width: 233px;
+	height: 30px;
+}
+form{
+	position: relative;
+	top: -40px;
+}
+
+
+/*button{
+	color: #dc143c;
+	height: 30px;
+	background-color: #FFFFFF;
+	width: 70px;
+}*/
+
+
+.heading span{
+	position: relative;
+	top: -30px;
+}
+.div2 h3{
+	font-family: calibri light;
+	font-size: 30px; 
+}
+.div2{
+	position: relative;
+	top: -30px
+	;
+}
+.div2 p{
+	position: relative;
+	top: -25px;
+}
+
+}
+.img{
+	margin-top: 15px;
+	position: relative;
+	top: -30px;
+}
+
+.img > p > i {
+	margin: 0px 15px 0px 15px;
+}
+
+.left {
+	margin: 0px 15px 0px 15px;
+	float: right;
+}
+
+#top-nav {
+	height: 35px;
+	font-size: 25px;
+}
+
+#gabriellink {
+	float: left;
+}
